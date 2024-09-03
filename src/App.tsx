@@ -1,14 +1,17 @@
-// src/App.tsx
-import React from 'react';
-import { UserTable } from './users/UserTable';
+import React from "react";
+import { UserFilters } from "./users/userFilter";
+import { UserTable } from "./users/UserTable";
 
-function App() {
+const App: React.FC = () => {
   return (
-    <div className="App">
-      <h1>Table of User </h1>
+    <div>
+      <h1 style={{ textAlign: "center", color: " #FF6347", fontSize: "36px" }}>
+        Table of Users
+      </h1>
+      <UserFilters />
       <UserTable />
     </div>
   );
-}
+};
 
 export default App;
