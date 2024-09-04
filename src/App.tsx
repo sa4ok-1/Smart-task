@@ -1,6 +1,6 @@
 import React from "react";
-import { UserFilters } from "./users/userFilter";
-import { UserTable } from "./users/UserTable";
+import { UserFilters } from "./usersFilter/userFilter";
+import { UserTable } from "./usersTable/UserTable";
 
 const App: React.FC = () => {
   return (

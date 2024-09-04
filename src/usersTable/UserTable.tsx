@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { RootState, AppDispatch } from "../app/store";
-import { fetchUsers } from "./usersSlice";
+import { fetchUsers } from "../app/usersSlice";
 import "./UserTable.css";
 
 export const UserTable: React.FC = () => {

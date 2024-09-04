@@ -1,7 +1,7 @@
 import React from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { RootState, AppDispatch } from "../app/store";
-import { setFilter } from "./usersSlice";
+import { setFilter } from "../app/usersSlice";
 
 export const UserFilters: React.FC = () => {
   const dispatch = useDispatch<AppDispatch>();
