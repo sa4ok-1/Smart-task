@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Smart-task/static/css/main.44112957.css",
-    "main.js": "/Smart-task/static/js/main.313c2e65.js",
-    "index.html": "/Smart-task/index.html",
-    "main.44112957.css.map": "/Smart-task/static/css/main.44112957.css.map",
-    "main.313c2e65.js.map": "/Smart-task/static/js/main.313c2e65.js.map"
+    "main.css": "/Smart-task/build/static/css/main.44112957.css",
+    "main.js": "/Smart-task/build/static/js/main.313c2e65.js",
+    "index.html": "/Smart-task/build/index.html",
+    "main.44112957.css.map": "/Smart-task/build/static/css/main.44112957.css.map",
+    "main.313c2e65.js.map": "/Smart-task/build/static/js/main.313c2e65.js.map"
   },
   "entrypoints": [
     "static/css/main.44112957.css",

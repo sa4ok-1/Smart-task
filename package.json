@@ -2,7 +2,7 @@
   "name": "user-management",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sa4ok-1.github.io/Smart-task/",
+  "homepage": "https://sa4ok-1.github.io/Smart-task/build/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "@testing-library/jest-dom": "^5.17.0",
